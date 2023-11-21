@@ -1,17 +1,68 @@
-/* styles.css */
+/* estilo.css */
 
 body {
-    font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
-    color: #333;
+    background-color: aqua;
+    font-family: Arial, sans-serif; /* Estilo de fuente para el cuerpo */
     margin: 0;
     padding: 0;
-  }
-  
-  h1 {
-    color: #0066cc;
-  }
-  
-  p {
-    line-height: 1.5;
-  }
+}
+
+h1 {
+    text-align: center; /* Centrar el encabezado */
+}
+
+nav {
+    background-color: #333;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    text-decoration: underline; /* Subrayar al pasar el ratón */
+}
+
+#Etapas {
+    text-align: center;
+}
+
+.list-item {
+    list-style-type: none; /* Eliminar viñetas de la lista */
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+
+#photo-image {
+    display: block;
+    margin: 0 auto; /* Centrar la imagen */
+}
+
+aside {
+    text-align: center;
+}
+
+video {
+    display: block;
+    margin: 0 auto; /* Centrar el video */
+}
+
+#Proyectos-realizados {
+    text-align: center;
+}
+
+aside h3 {
+    color: #009688; /* Color del texto de la sección de proyectos */
+}
+
+aside li {
+    margin-bottom: 8px;
+}
+
+#Expo-realidad {
+    text-align: center;
+}
