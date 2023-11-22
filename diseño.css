@@ -2,10 +2,13 @@
 /* estilo.css */
 
 body {
-    background-color: aqua;
-    font-family: Arial, sans-serif; /* Estilo de fuente para el cuerpo */
-    margin: 0;
-    padding: 0;
+    body {
+    background-image: url(Centenario.jpg);
+    background-size: cover; /* Ajusta el tamaño de la imagen para cubrir todo el fondo */
+    background-position: center; /* Centra la imagen */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+}
+
 }
 
 h1 {
