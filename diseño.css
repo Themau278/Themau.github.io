@@ -68,11 +68,16 @@ aside li {
     text-align: center;
 }
 .list-item {
-    color: rgb(212, 212, 35);
+    color: rgb(218, 35, 35);
+    text-align: center;
 } 
 .list-item2 {
     color: rgb(248, 216, 4);
 }
 .list-item4 {
     color: aliceblue;
+}
+.list-item6 {
+    color: rgb(128, 255, 105);
+    text-align: center;
 }
