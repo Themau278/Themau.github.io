@@ -2,10 +2,9 @@
 /* estilo.css */
 
 body {
-    background-image: url('Centenario.jpg');
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
+    section {
+     background-image: url("Centenario.jpg");
+        }
 }
 
 /* Otros estilos para el contenido de tu página */
