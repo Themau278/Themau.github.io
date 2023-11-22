@@ -3,6 +3,9 @@
 
 body {
     background-image: url("https://www.dropbox.com/scl/fi/l51lm4ydaenhxv57szoel/Centenario.jpg?rlkey=ixfbg5ox2lnyos7f3hbbq3lvz&dl=0&raw=1");
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100% 100%;
     font-family: Arial, sans-serif; /* Estilo de fuente para el cuerpo */
     margin: 0;
     padding: 0;
