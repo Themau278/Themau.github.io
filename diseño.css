@@ -2,11 +2,14 @@
 /* estilo.css */
 
 body {
-    body {
-    background-image: url(Centenario.jpg);
-    background-size: cover; /* Ajusta el tamaño de la imagen para cubrir todo el fondo */
-    background-position: center; /* Centra la imagen */
-    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    background-image: url('ruta-de-tu-imagen.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+/* Otros estilos para el contenido de tu página */
+
 }
 
 }
