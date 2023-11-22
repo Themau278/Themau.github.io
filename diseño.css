@@ -8,24 +8,18 @@ body {
     padding: 0;
 }
 
-/* Otros estilos para el contenido de tu página */
-
-}
-
-}
-
 h1 {
     text-align: center; /* Centrar el encabezado */
 }
 
 nav {
-    background-color: #333;
+    background-color: #333333;
     padding: 10px;
     text-align: center;
 }
 
 nav a {
-    color: white;
+    color: rgb(254, 254, 254);
     margin: 0 10px;
     text-decoration: none;
 }
@@ -72,4 +66,13 @@ aside li {
 
 #Expo-realidad {
     text-align: center;
+}
+.list-item {
+    color: rgb(212, 212, 35);
+} 
+.list-item2 {
+    color: rgb(248, 216, 4);
+}
+.list-item4 {
+    color: aliceblue;
 }
